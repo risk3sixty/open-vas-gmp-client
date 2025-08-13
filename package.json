@@ -24,7 +24,7 @@
     "@babel/preset-env": "^7.4.3",
     "@babel/register": "^7.4.0",
     "core-js": "^3.0.1",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.1",
     "gulp-babel": "^8.0.0",
     "gulp-plumber": "^1.2.1",
     "jsontoxml": "^1.0.1",
